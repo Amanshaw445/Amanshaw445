@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Aman Shaw's GitHub</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            font-size: 36px;
-            color: #333;
-        }
-        h3 {
-            font-size: 24px;
-            color: #555;
-        }
-        ul {
-            list-style: none;
-        }
-        li {
-            font-size: 18px;
-            margin-bottom: 10px;
-        }
-        .contact {
-            font-size: 20px;
-            margin-top: 20px;
-        }
-        .emoji {
-            font-size: 24px;
-            margin: 0 5px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>👋 Hi, I'm Aman Shaw!</h1>
+ <h1>👋 Hi, I'm Aman Shaw!</h1>
         <p>Welcome to my GitHub profile. Here's a little bit about me:</p>
         <ul>
             <li>👀 I'm passionate about web development and competitive programming.</li>
@@ -54,7 +10,7 @@
         <p>I'm a tech enthusiast who is always eager to learn and explore new technologies. My journey in the world of programming and development has been an exciting one, and I'm constantly looking for opportunities to enhance my skills and work on exciting projects.</p>
         <h3>Projects</h3>
         <p>I'm actively working on various web development projects and competitive programming challenges. You can find some of my projects and contributions here on GitHub. Feel free to explore, fork, or contribute to any of my repositories.</p>
-        <div class="contact">
+        <div>
             <h3>Get in Touch</h3>
             <p>If you'd like to collaborate on a project, have any questions, or just want to say hello, you can reach me on <a href="https://www.linkedin.com/in/yourlinkedinprofile">LinkedIn</a>. Don't hesitate to connect or send me a message—I'm always open to networking and making new friends in the tech community.</p>
         </div>
