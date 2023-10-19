@@ -15,7 +15,7 @@
             <p>If you'd like to collaborate on a project, have any questions, or just want to say hello.
              <br> Don't hesitate to connect or send me a message—I'm always open to networking and making new friends in the tech community.</p>
          <h2>you can reach me on</h2>
-          <a href="https://www.linkedin.com/in/amanshaw445/">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/amanshaw445/"> ➡️ LinkedIn</a>
         </div>
         <p>Let's code, learn, and build amazing things together! 🚀✨</p>
         <p>Thank you for visiting my GitHub profile! 😊👍</p>
