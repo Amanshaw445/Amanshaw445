@@ -47,15 +47,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
 </div>
-
-<!-- <h3>About Me</h3>
-<p>I'm a tech enthusiast who is always eager to learn and explore new technologies. My journey in the world of programming and development has been an exciting one, and I'm constantly looking for opportunities to enhance my skills and work on exciting projects.</p> -->
-<!-- <h3>Projects</h3>
-<p>I'm actively working on various web development projects and competitive programming challenges. You can find some of my projects and contributions here on GitHub. Feel free to explore, fork, or contribute to any of my repositories.</p> -->
 <div>
-    <h2>Get in Touch</h2>
+    <h3>Get in Touch</h3>
+    
+    <a href="https://www.linkedin.com/in/amanshaw445/">   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+    
+    <a href="mailto:amanshaw817@gmail.com">   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+    
     <p>If you'd like to collaborate on a project, have any questions, or just want to say hello, you can reach me on
-  <a href="https://www.linkedin.com/in/amanshaw445/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/amanshaw445/">linkedin</a>
      <br> Don't hesitate to connect or send me a message—I'm always open to networking and making new friends in the tech community.</p>
 </div>
 <p>Thank you for visiting my GitHub profile! 😊👍</p>
