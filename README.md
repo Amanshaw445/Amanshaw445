@@ -50,13 +50,13 @@
 <div>
     <h3>Get in Touch</h3>
     
-    <a href="https://www.linkedin.com/in/amanshaw445/">   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+<a href="https://www.linkedin.com/in/amanshaw445/">   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
     
-    <a href="mailto:amanshaw817@gmail.com">   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+<a href="mailto:amanshaw817@gmail.com">   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
     
-    <p>If you'd like to collaborate on a project, have any questions, or just want to say hello, you can reach me on
-  <a href="https://www.linkedin.com/in/amanshaw445/">linkedin</a>
-     <br> Don't hesitate to connect or send me a message—I'm always open to networking and making new friends in the tech community.</p>
+<p>If you'd like to collaborate on a project, have any questions, or just want to say hello, you can reach me on
+  <a href="https://www.linkedin.com/in/amanshaw445/">linkedin</a></p>
+<br> Don't hesitate to connect or send me a message—I'm always open to networking and making new friends in the tech community.</p>
 </div>
 <p>Thank you for visiting my GitHub profile! 😊👍</p>
 </div>
