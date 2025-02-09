@@ -13,7 +13,7 @@
 <p align="left">✨ Creating bugs since 2021</p>
 <ul>
     <li>👀 I'm passionate about web development and competitive programming.</li>
-    <li>🌱 Currently, I'm in the process of mastering web development and learning the intricacies of C++.</li>
+    <li>🌱 Currently, I'm in the process of mastering web development and learning the intricacies of java.</li>
     <li>💞️ I'm open to collaborating on full-stack web development projects.</li>
     <li>📫 You can reach me on gmail: <a href="mailto:amanshaw817@gmail.com">amanshaw817@gmail.com</a></li>
 </ul>
@@ -33,6 +33,7 @@
 <!-- Languages -->
 <h3>Languages:</h3>
 <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/java-original.svg" height="40" alt="java logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
