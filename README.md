@@ -74,6 +74,3 @@
 </p>
 
 <p>Thank you for visiting my GitHub profile! 😊👍</p>
-
-<p>👀 Profile Views:-</p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aman-username" alt="visitor badge"/>
