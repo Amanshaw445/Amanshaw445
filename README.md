@@ -73,4 +73,27 @@
   <br>Don't hesitate to connect or send me a message—I'm always open to networking and making new friends in the tech community.
 </p>
 
-<p>Thank you for visiting my GitHub profile! 😊👍</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amanshaw445&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<div align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=amanshaw445&show_icons=true&theme=radical&hide_title=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <br />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=amanshaw445&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanshaw445&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
+</div>
+
+
+<p align="center">Thank you for visiting my GitHub profile! 😊👍</p>
