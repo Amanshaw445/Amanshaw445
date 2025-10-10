@@ -10,8 +10,7 @@
   <li>👀 Passionate about web development and competitive programming.</li>
   <li>🌱 Currently mastering web development and Java.</li>
   <li>💞️ Open to collaborating on full-stack projects.</li>
-  <li>📫 Reach me: <a href="mailto:amanshaw817@gmail.com">amanshaw817@gmail.com</a></li>
-  <li><a href="amanshaw.live">amanshaw.live</a></li>
+  <li>📫 Reach me: <a href="amanshaw.live">amanshaw.live</a></li>
 </ul>
 
 <h2 align="left">I Code With</h2>
